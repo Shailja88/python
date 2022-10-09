@@ -1,0 +1,3 @@
+Python is awesome
+I love python
+Python is my favorite programming language
